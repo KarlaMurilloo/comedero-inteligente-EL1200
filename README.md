@@ -19,11 +19,12 @@ y evita servir de más si el gato se queda frente al plato.
 | Alimentación | 3V3 y GND |
 ![Diagrama](docs/esquema.png)
 ## Simulación
-Proyecto en Wokwi: <enlace público>
+Proyecto en Wokwi: https://wokwi.com/projects/480767850237652993
 ## Código
 Ver la carpeta firmware/. Biblioteca usada: ESP32Servo.
 ## Evidencia
-![Simulación](media/simulacion.png)
+![Simulación](media/simulacion.mp4)
 ## Mejoras futuras
-- <una o dos ideas: horarios, sensor de nivel, aviso por Wi-Fi...>
-
+- Incorporar un sistema de horarios para controlar los momentos de alimentación.
+- Agregar un sensor de nivel para conocer la cantidad de alimento disponible.
+- Implementar notificaciones por Wi-Fi para informar sobre el funcionamiento del comedero.
