@@ -1,0 +1,4 @@
+# Lista de la biblioteca de Wokwi
+# Consulte https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
