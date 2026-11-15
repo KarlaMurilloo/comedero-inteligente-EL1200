@@ -23,7 +23,13 @@ Proyecto en Wokwi: https://wokwi.com/projects/480767850237652993
 ## Código
 Ver la carpeta firmware/. Biblioteca usada: ESP32Servo.
 ## Evidencia
-![Simulación](media/simulacion.mp4)
+![Simulación](media/capturas/01-deteccion-gato.png)
+(media/capturas/02-deteccion-gato.png)
+(media/capturas/03-deteccion-gato.png)
+(media/capturas/04-deteccion-gato.png)
+
+
+
 ## Mejoras futuras
 - Incorporar un sistema de horarios para controlar los momentos de alimentación.
 - Agregar un sensor de nivel para conocer la cantidad de alimento disponible.
