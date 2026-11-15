@@ -23,10 +23,10 @@ Proyecto en Wokwi: https://wokwi.com/projects/480767850237652993
 ## Código
 Ver la carpeta firmware/. Biblioteca usada: ESP32Servo.
 ## Evidencia
-![Simulación](media/capturas/01-deteccion-gato.png)
-(media/capturas/02-deteccion-gato.png)
-(media/capturas/03-deteccion-gato.png)
-(media/capturas/04-deteccion-gato.png)
+![Simulación](media/01-deteccion-gato.png)
+![Simulación](media/02-deteccion-gato.png)
+![Simulación](media/03-deteccion-gato.png)
+![Simulación](media/04-deteccion-gato.png)
 
 
 
